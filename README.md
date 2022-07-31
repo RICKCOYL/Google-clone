@@ -1,6 +1,8 @@
 # google - Search Engine 
 
-![google]()
+## [Live demo]()
+
+![google](./public/googleImg.png)
 
 
 - run ```npm i && npm start``` to start the development server
