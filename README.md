@@ -1,6 +1,6 @@
-# google - Search Engine in the World
+# google - Search Engine 
 
-![google](https://i.ibb.co/yQdYhtq/image.png)
+![google]()
 
 
 - run ```npm i && npm start``` to start the development server
